@@ -1,19 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm ZARANI M. Abdoul-Kader</h1>
+<h1 align="center">Hi , I'm ZARANI M. Abdoul-Kader</h1>
 <h3 align="center">A passionate full-stack developer from Burkina Faso</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmak5&label=Profile%20views&color=0e75b6&style=flat" alt="zmak5" /> </p>
 
-- 🔭 I’m currently working on **a CyberSecurity app**
+-  I’m currently working on **a CyberSecurity app**
 
-- 🌱 I’m currently learning **Js,C++,React Native and much more**
+-  I’m currently learning **Js,C++,React Native and much more**
 
-- 💬 Ask me about **IT Network**
+-  Ask me about **IT Network**
 
-- 📫 How to reach me **kaderzarani6@gmail.com**
+-  How to reach me **kaderzarani6@gmail.com**
 
-- ⚡ Fun fact **I am basketball player**
+-  Fun fact **I am basketball player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
