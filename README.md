@@ -11,6 +11,6 @@
 
 -  Ask me about **IT Network**
 
--  How to reach me **kaderzarani6@gmail.com**
+-  How to reach me **kaderzarani6@gmail.com** and **https://www.linkedin.com/in/kader-zarani-981260385/**
 
 -  Fun fact **I am basketball player**
